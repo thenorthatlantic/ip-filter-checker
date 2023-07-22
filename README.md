@@ -9,7 +9,7 @@ This is a simple Windows Forms application written in C# that checks if an IP ad
 
 .NET framework 4.6.2
   
-  # نحوه استفاده
+  # نحوه استفاده 
 1 -  به اینترنتی که می خواهید آیپی یا دامنه را در آن چک کنین متصل شوید.
 
 2 - آدرس آیپی یا دامنه را در بخش IP وارد کنید.
@@ -19,3 +19,9 @@ This is a simple Windows Forms application written in C# that checks if an IP ad
 4 - برای چک کردن آیپی معمولا 1000ms در قسمت timeout کافیست اما برای چک کردن دقیق تر دامین می توانید روی 10000ms تنظیم کنید.
 
 5 -  دکمه Check را بزنید.
+
+روی اینترنت ایرانسل میتونید چند بار Check رو بزنید اگه یه بار گفت وصل یه بار گفت قطع یکی اختلال رو آیپی هست.
+
+..
+
+** آپدیت: الان دیگه این ابزار خیلی کاربردی نیست **
