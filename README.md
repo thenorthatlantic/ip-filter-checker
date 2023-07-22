@@ -24,4 +24,4 @@ This is a simple Windows Forms application written in C# that checks if an IP ad
 
 ..
 
-** آپدیت: الان دیگه این ابزار خیلی کاربردی نیست **
+**آپدیت: الان دیگه این ابزار خیلی کاربردی نیست.**
